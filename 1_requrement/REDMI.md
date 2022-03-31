@@ -14,3 +14,4 @@ We use the following steps to create and execute C programs in Windows OS
 •	Step 4: Check Result (Alt + F5)
 *Test plan and outcome
 •	To start creating a Bank Management System in C, make sure that you have a vs code or any platform of C installed in your computer.
+
